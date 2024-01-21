@@ -1,0 +1,5 @@
+'''
+if condição:
+    # faça algo
+
+'''
