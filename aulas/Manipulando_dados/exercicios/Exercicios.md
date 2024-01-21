@@ -17,13 +17,21 @@
 
 
 ## Editando textos
-14. Crie uma variável chamada “frase” e atribua a ela uma string de sua escolha. Em seguida, imprima a frase na tela.  
-15. Crie um código que solicite uma frase e depois imprima a frase na tela.  
-16. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase digitada mas com todas as letras maiúsculas.  
-17. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase digitada mas com todas as letras minúsculas.  
-18. Crie uma variável chamada “frase” e atribua a ela uma string de sua escolha. Em seguida, imprima a frase sem espaços em branco no início e no fim.  
-19. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase sem espaços em branco no início e no fim.  
-20. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase sem espaços em branco no início e no fim e em letras minúsculas.  
-21. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase com todas as vogais “e” trocadas pela letra “f”.  
-22. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase com todas as vogais “a” trocadas pela caractere “@”.  
-23. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase com todas as consoantes “s” trocadas pelo caractere “$”.  
+14. Crie uma variável chamada “frase” e atribua a ela uma string de sua escolha. Em seguida, imprima a frase na tela. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_14.py)  
+
+15. Crie um código que solicite uma frase e depois imprima a frase na tela. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_15.py)  
+
+16. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase digitada mas com todas as letras maiúsculas. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_16.py)  
+
+17. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase digitada mas com todas as letras minúsculas. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_17.py)  
+18. Crie uma variável chamada “frase” e atribua a ela uma string de sua escolha. Em seguida, imprima a frase sem espaços em branco no início e no fim. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_18.py)  
+
+19. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase sem espaços em branco no início e no fim. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_19.py)  
+
+20. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase sem espaços em branco no início e no fim e em letras minúsculas. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_20.py)  
+
+21. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase com todas as vogais “e” trocadas pela letra “f”. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_21.py)  
+
+22. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase com todas as vogais “a” trocadas pela caractere “@”. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_22.py)  
+
+23. Crie um código que solicite uma frase à pessoa usuária e imprima a mesma frase com todas as consoantes “s” trocadas pelo caractere “$”. [Resolução](/aulas/Manipulando_dados/exercicios/exercicio_23.py)  
